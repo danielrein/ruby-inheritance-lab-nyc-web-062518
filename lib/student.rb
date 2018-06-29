@@ -1,5 +1,5 @@
 require './student.rb'
 
-class Student < student
+class Student < User
 
 end
