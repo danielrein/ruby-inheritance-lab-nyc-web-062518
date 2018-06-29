@@ -1,4 +1,5 @@
 require 'user.rb'
+require 'pry'
 
 class Student < User
 
