@@ -14,5 +14,4 @@ class Student < User
   def knowledge
     @knowledge
   end
-binding.pry
 end
